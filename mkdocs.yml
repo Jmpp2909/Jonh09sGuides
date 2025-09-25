@@ -1,4 +1,4 @@
-site_name: AllTheJonh's Guides
+site_name: Jonh09'sGuides
 theme: 
   name: material
   features:
@@ -23,6 +23,11 @@ theme:
     - scheme: slate 
       accent: deep purple
 
+nav:
+  - About: index.md
+  - Overall Guides: guides\mods\introduction.md
+  - ATM9 Guides: guides\atm9\introduction.md
+  - ATM10 Guides: guides\atm10\introduction.md
 extra:
   social:
     - icon: fontawesome/brands/discord
