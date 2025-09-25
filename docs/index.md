@@ -13,7 +13,8 @@ Inspired by the [AllTheGuides](https://allthemods.github.io/alltheguides/) page 
 This page consists of pretty much all the small guides / setups I've made and stuff I taught.
 Do note that none of these may be the most efficient and outstanding setups possible, it's just my take/view on how to do it, and as normal, there might be more ways to do the same thing.
 
-If you find any errors or have any suggestions, you can find me in the [AllTheMods Discord](https://discord.com/invite/allthemods), @Jonh09 <br> 
-or ask on this project's Github -> [Guide discussions](https://github.com/Jmpp2909/Jonh09sGuides/discussions/1).
+If you find any errors or have any suggestions, you can :
+    * find me in the [AllTheMods Discord](https://discord.com/invite/allthemods) @Jonh09, 
+    * or ask on this project's Github -> [Guide discussions](https://github.com/Jmpp2909/Jonh09sGuides/discussions/1).
 
 
